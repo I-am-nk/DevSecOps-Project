@@ -66,7 +66,6 @@ Exposes port 80
 Runs NGINX in foreground
 
 This results in:
-
 ✔ Smaller image
 ✔ Faster runtime
 ✔ Cleaner production builds
