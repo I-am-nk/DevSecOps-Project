@@ -2,7 +2,8 @@
 
 ![Screenshot 2025-03-04 at 7 16 48 PM](https://github.com/user-attachments/assets/7ed79f9c-9144-4870-accd-500085a15592)
 
-![image](https://github.com/user-attachments/assets/5b2813a5-f493-4665-8964-77359b5be93a)
+<img width="1346" height="955" alt="image" src="https://github.com/user-attachments/assets/c6c98a14-38bc-4511-ae39-7750992e37bd" />
+
 
 ## Features
 
@@ -46,6 +47,11 @@ The game implements the following rules:
 5. Game statistics are tracked and displayed
 
 ## Getting Started
+
+# Want to run project on Kubernetes follow this guide: 
+# 📄 [Kubernetes README →](https://github.com/I-am-nk/DevSecOps-Project/blob/main/kubernetes/README.md)
+
+## FOllow the below guide for running the app locally 👇.
 
 ### Prerequisites
 
